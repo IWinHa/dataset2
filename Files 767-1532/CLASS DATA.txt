@@ -1,0 +1,5 @@
+For files 767 to 1532:
+
+Files 767 to 917 are of class label 2 (glioma)
+
+Files 918 to 1532 are of class label 3 (pituitary tumor)
