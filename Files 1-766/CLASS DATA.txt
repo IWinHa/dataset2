@@ -1,0 +1,7 @@
+For files 1 to 766:
+
+Files 1 to 708 are of class 1 (meningioma)
+
+Files 709 to 714 are of class 3 (pituitary tumor)
+
+Files 715 to 766 are of class 2 (glioma)
