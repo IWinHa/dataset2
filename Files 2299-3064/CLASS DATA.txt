@@ -1,0 +1,9 @@
+For files 2299 to 3064:
+
+Files 2299 to 3029 are of class 2 (glioma)
+
+File 3030 is class 1 (menigioma)
+
+Files 3031 to 3062 are of class 2 (glioma)
+
+Files 3063 and 3064 is class 1 (menigioma)
