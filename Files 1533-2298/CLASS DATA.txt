@@ -1,0 +1,5 @@
+For files 1533 to 2298:
+
+Files 1533 to 1840 are class 3 (pituitary tumor)
+
+Files 1841 to 2298 are class 2 (glioma)
